@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "API-Restul-2",
+			"path": "..\\API-Restul-2"
+		}
+	],
+	"settings": {
+		"compile-hero.disable-compile-files-on-did-save-code": true
+	}
+}
